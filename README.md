@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Noyal Nakarmi
 - 👀 I’m interested in Java and python
 - 🌱 I’m currently learning basic java
-- 📫 How to reach me n.nakarmi@gmail.com
+- 📫 How to reach me n.nakarmi22@gmail.com
 
 <!---
 Noyal080/Noyal080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
