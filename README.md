@@ -1,9 +1,6 @@
-- 👋 Hi, I’m Noyal Nakarmi
-- 👀 I’m interested in Java and python
-- 🌱 I’m currently learning basic java
-- 📫 How to reach me n.nakarmi22@gmail.com
-
-<!---
-Noyal080/Noyal080 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="[your link](https://twitter.com/NakarmiNoyal)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="" height="30" width="40" /></a>
+<a href="[your link](https://www.instagram.com/no_yell_nakarmi/)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+<a href="[your link](https://www.facebook.com/noyal.nakarmi.9)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="" height="30" width="40" /></a>
+</p>
